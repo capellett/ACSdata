@@ -3,6 +3,7 @@ Type: Package
 Title: Some data from the American Community Survey
 Version: 0.1.0
 Author: C A Pellett
+Maintaner: <c.alex.pellett@gmail.com>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
 License: file LICENSE
@@ -10,3 +11,4 @@ Encoding: UTF-8
 LazyData: true
 Imports: 
     curl
+RoxygenNote: 6.1.1
